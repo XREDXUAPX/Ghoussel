@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ghoussel
+- 👀 I’m interested in python3.9 
+- 🌱 I’m currently learning bash
