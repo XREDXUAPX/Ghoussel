@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLACKBIRD
+- 👋 Hi, I’m @YOUPPIOFF
 - 👀 I’m interested in python3.9 
 - 🌱 I’m currently learning bash
 - ♡ Python developer from Alegria 🇩🇿 
